@@ -3,12 +3,12 @@ markdown:         kramdown
 highlighter:      rouge
 
 # Setup
-title:            my_blog
+title:            Arf's blog
 tagline:          ''
 description:      ''
 url:              https://Arfcharolia.github.io
 baseurl:          '/Blog-Assignment/'
-author: Arf
+author: Arf Charolia
 email: charolia@myumanitoba.ca
                   # the optional subpath of your site, e.g. "/blog"
                   # NB: This applies to all pages in your Jekyll site.
