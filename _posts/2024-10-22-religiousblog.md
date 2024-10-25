@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "religious material"
+title: "Religious material: aarti thali"
 ---
 
 ## The Aarti Thali or Pooja Thali (Prayer Plate): A symbol of devotion in Hinduism
