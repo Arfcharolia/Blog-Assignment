@@ -5,7 +5,7 @@ title: "Religious Object: Aarti Thali"
 
 ## The Aarti Thali or Pooja Thali (Prayer Plate): A symbol of devotion in Hinduism
 
-The aarti thali is an essential part of Hindu worshipping. The worships are incomplete without aarti thali. It is a symbol of light and devotion submitted to the God. The thali contains several other elements that make it complete. Those elements include a Diya (oil lamp) ,an idol of the diety , flowers, incencse sticks ,Prashad (sweets) and rice. Each elements serves a different purpose and can often vary according to the place or caste in Hinduism. The thali can also include cocunut and silver/ gold coins. The thali is used in every Aarti ceremony (prayers) that holds very deep spiritual meaning. 
+The aarti thali is an essential part of Hindu worshipping. The worships are incomplete without aarti thali. It is a symbol of light and devotion submitted to the God. The thali contains several other elements that make it complete. Those elements include a Diya (oil lamp) ,an idol of the diety , flowers, bell, incencse sticks ,Prashad (sweets) and rice. Each elements serves a different purpose and can often vary according to the place or caste in Hinduism. The thali can also include cocunut and silver/ gold coins. The thali is used in every Aarti ceremony (prayers) that holds very deep spiritual meaning. 
 
 ![Screenshot 2024-10-25 232423](https://github.com/user-attachments/assets/660678c5-4aab-4bc8-a47b-7e4d14ef83b3)
 ![Hindu_pooja_thali](https://github.com/user-attachments/assets/de67e45b-72ed-4d7e-a8eb-6354749c90f8)
