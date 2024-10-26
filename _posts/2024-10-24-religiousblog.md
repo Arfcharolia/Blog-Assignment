@@ -7,8 +7,9 @@ title: "Religious Object: Aarti Thali"
 
 The aarti thali is an essential part of Hindu worshipping. The worships are incomplete without aarti thali. It is a symbol of light and devotion submitted to the God. The thali contains several other elements that make it complete. Those elements include a Diya (oil lamp) ,an idol of the diety , flowers, incencse sticks ,Prashad (sweets) and rice. Each elements serves a different purpose and can often vary according to the place or caste in Hinduism. The thali can also include cocunut and silver/ gold coins. The thali is used in every Aarti ceremony (prayers) that holds very deep spiritual meaning. 
 
-![aarti image](https://github.com/user-attachments/assets/242c3abc-0323-4054-904b-8643ceb70b5e)
-
+![Screenshot 2024-10-25 232423](https://github.com/user-attachments/assets/660678c5-4aab-4bc8-a47b-7e4d14ef83b3)
+![Hindu_pooja_thali](https://github.com/user-attachments/assets/de67e45b-72ed-4d7e-a8eb-6354749c90f8)
+Source: Wikipedia (2024)
 
 The book "Worship essentials for puja" by Meera Shashital encompasses the vital concepts of puja also covering the purpose and origin of elements placed in Aart thali during puja. The word aarti is an indigenous or Dravidian word. In Sanskrit it is called artrik, artikya, arartikya or mahaniranjana. A flat metal or silver platter with niranjans or tiny containers with lighted wicks, when moved in a clockwise direction before the idol of worship or any person, is known as the act of aarti. (Sashital, 2013, p. 10)
 
@@ -20,5 +21,5 @@ In temples aarti is led by priest but in homes usually, women prepares the Aarti
 
                                        References
 Sashital, M. (2013). Worship essentials for Puja (p. 10). One Point Six Technology Pvt Ltd.                             
-
+Wikimedia Foundation. (2024, October 19). Puja (Hinduism). Wikipedia. https://en.wikipedia.org/wiki/Puja_(Hinduism) 
 
