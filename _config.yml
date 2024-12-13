@@ -3,11 +3,11 @@ markdown:         kramdown
 highlighter:      rouge
 
 # Setup
-title:            Arf's Blog
+title:            Exploring Perspectives Of Religious And Secular Feminists On Religious Practices
 tagline:          ''
 description:      ''
 url:              https://Arfcharolia.github.io
-baseurl:          '/Blog-Assignment/'
+baseurl:          '/Digital Project/'
 author: Arf Charolia
 email: charolia@myumanitoba.ca
                   # the optional subpath of your site, e.g. "/blog"
