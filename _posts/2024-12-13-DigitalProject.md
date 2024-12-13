@@ -44,6 +44,6 @@ Ahmed-Ghosh, Huma (2008). Dilemmas of Islamic and Secular Feminists and Feminism
 
 Yassine, R. (n.d.). Tangled Layers: The Female Body in the Maghreb at the Intersection of Religion, History and Culture, 200-216.
 
- Zine, J. (2006). Muslim women and the politics of religious identity. American Journal of Islamic Social Sciences, 15(3), 233–246. Retrieved from https://www.ajis.org/index.php/ajiss/article/view/3034/2310
+ Zine, J. (2006). Muslim women and the politics of religious identity. American Journal of Islamic Social Sciences, 15(3), 233–246. Retrieved from https://www.ajis.org/index.php/ajiss/article/view/3034/2310 
 
 
